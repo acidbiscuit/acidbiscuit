@@ -19,12 +19,9 @@ Here are some ideas to get you started:
 
 <ul dir="auto">
 <li>
-<p dir="auto">🔭 I’m currently working as a frontend developer in <a href="https://subbly.co">Subbly</a> - a subscription-first e-commerce platform</p>
+<p dir="auto">Frontend developer at <a href="https://subbly.co">Subbly</a> - a subscription-first e-commerce platform</p>
 </li>
 <li>
-<p dir="auto">🌱 I’m currently learning <strong>Golang</strong> and <strong>Spanish</strong> 🇪🇸</p>
-</li>
-<li>
-<p dir="auto">📫 Contact me via <a href="https://www.linkedin.com/in/abiscuit">Linkedin DM</a>.</p>
+<p dir="auto">Reach our on <a href="https://www.linkedin.com/in/abiscuit">Linkedin</a>.</p>
 </li>
 </ul>
