@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <p dir="auto">Frontend developer at <a href="https://subbly.co">Subbly</a> - a subscription-first e-commerce platform</p>
 </li>
 <li>
-<p dir="auto">Reach our on <a href="https://www.linkedin.com/in/abiscuit">Linkedin</a>.</p>
+<p dir="auto">Reach out on <a href="https://www.linkedin.com/in/abiscuit">Linkedin</a>.</p>
 </li>
 </ul>
